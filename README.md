@@ -10,10 +10,6 @@ NOTE: Upload the neural-orbit.svg file to the root of your repository so the ima
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=150&section=header&fontSize=45&fontColor=ffffff&autoCapture=true&animation=twinkling&descAlignY=65" />
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Automating+the+Impossible.;Architecting+Intelligent+Workflows.;Building+Aesora+Protocol.;Engineering+Next-Gen+Interfaces." alt="Typing SVG" />
   </a>
@@ -103,3 +99,4 @@ _Visual representation of repository contributions over time._
 <div align="center">
   <p><sub style="color:#F59E0B;"><b>EOF</b></sub></p>
 </div>
+
