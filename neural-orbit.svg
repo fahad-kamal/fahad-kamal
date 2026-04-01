@@ -95,7 +95,4 @@
   <line x1="200" y1="200" x2="200" y2="95" stroke="rgba(245, 158, 11, 0.15)" stroke-width="1" stroke-dasharray="4 4" class="ring-2" />
   <line x1="200" y1="200" x2="50" y2="200" stroke="rgba(245, 158, 11, 0.1)" stroke-width="1" stroke-dasharray="2 4" class="ring-3" />
 </svg>
-158, 11, 0.25)" stroke-width="1.5" class="ring-1" />
-  <line x1="200" y1="200" x2="200" y2="95" stroke="rgba(245, 158, 11, 0.15)" stroke-width="1" stroke-dasharray="4 4" class="ring-2" />
-  <line x1="200" y1="200" x2="50" y2="200" stroke="rgba(245, 158, 11, 0.1)" stroke-width="1" stroke-dasharray="2 4" class="ring-3" />
-</svg>
+
